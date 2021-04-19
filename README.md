@@ -1,6 +1,12 @@
 # P4xC
 A Parallel Circular Cross-Correlation Calculator
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/Made%20With-C-lightgrey)
+![](https://img.shields.io/badge/Made%20With-MPI-lightgrey)
+![](https://img.shields.io/badge/License-Free%20To%20Use-green)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 The circular cross-correlation is an important tool to detect similarities between two signals.
